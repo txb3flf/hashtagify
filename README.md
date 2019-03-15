@@ -1,6 +1,6 @@
 # Setup
 
-`$ git clone https://github.com/orderup/hashtagify`
+`$ git clone https://github.com/txb3flf/hashtagify`
 
 `$ cd hashtagify`
 
@@ -9,6 +9,10 @@
 `$ npm run test`
 
 # Interview
+
+## Goals
+
+To evalute the ability to read and improve existing code.
 
 ## Prompt
 
@@ -23,7 +27,7 @@ It has passing unit tests.
 
 ## Requirements of the Hashtag Program
 
-The return value should... 
+The return value should:
 
 * start with an octothorpe (#)
 
